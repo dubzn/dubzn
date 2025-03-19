@@ -40,7 +40,7 @@ Here are some samples of my latest works.
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/sdgalvan"><img src="https://avatars.githubusercontent.com/u/58611754?v=4?s=100" width="150px;" alt="dubzn"/><br /><sub><b>𝕏 account</b></sub></a><br /><a href="https://github.com/dubzn" title="X"></a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://x.com/dub_zn"><img src="https://avatars.githubusercontent.com/u/58611754?v=4?s=100" width="150px;" alt="dubzn"/><br /><sub><b>𝕏 account</b></sub></a><br /><a href="https://x.com/dub_zn" title="X"></a></td>
       <td align="center" valign="top" width="14.28%"><img src="https://user-images.githubusercontent.com/58611754/236744178-b1753fb6-c647-473a-bc7b-77cd687c6a82.gif" width="130px" /><br /><sub><b>Favorite Pokémon</b></sub></a><br /><a href="https://www.pokemon.com/el/pokedex/gengar" title="Gengar"></a></td>
     </tr>
   </tbody>
