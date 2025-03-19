@@ -26,7 +26,8 @@ I’ve been building games and tools in the on-chain space, contributing to open
 
 ---
 ## 🎨 Design & Media  
-I'm interested in design and content creation, so I also learned how to edit images and videos. Here are some samples of my work:  
+I'm interested in design and content creation, so I also learned how to edit images and videos. 
+Here are some samples of my latest works
 
 - **[Jokers of Neon - Trailer](https://www.youtube.com/watch?v=0KgCLOUVjHg)**
 - **[Jokers of Neon - Mod update](https://www.youtube.com/watch?v=KF3rtfxnkEc)**
