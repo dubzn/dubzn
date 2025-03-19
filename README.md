@@ -1,5 +1,5 @@
 ## 👋 About Me  
-Independent developer in the Starknet ecosystem for nearly 3 years, focusing on building games and tools in the on-chain space. Throughout this time, I have been contributing to multiple open-source repositories within the ecosystem and actively participating in various in-person events and hackathons. Currently, I'm working at **[Caravana Studio](https://github.com/caravana-studio)**, developing **[Jokers of Neon](https://alpha.jokersofneon.com/)** and exploring new ways to integrate blockchain into gaming.  
+Independent developer in the Starknet ecosystem for nearly 3 years, focusing on building games and tools in the on-chain space. Throughout this time, I have been contributing to multiple open-source repositories within the ecosystem and actively participating in various in-person events and hackathons. Currently, I'm working at **[Caravana Studio](https://github.com/caravana-studio)** as Cairo developer, developing **[Jokers of Neon](https://alpha.jokersofneon.com/)** and exploring new ways to integrate blockchain into gaming.  
 
 ---
 ## 🏆 Hackathons & Competitions  
