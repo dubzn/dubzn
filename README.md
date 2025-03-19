@@ -3,7 +3,7 @@ Hi, I'm **Santiago**, a backend engineer working as a freelancer for the past th
 
 Co-founder of **[Caravana Studio](https://github.com/caravana-studio)**, working on **[Jokers of Neon](https://alpha.jokersofneon.com/)** as a **[Cairo](https://www.cairo-lang.org/)** developer, exploring new ways to integrate blockchain into gaming.  
 
-I focus on building games and tools in the on-chain space. During this time, I've contributed to multiple open-source repositories within the ecosystem and actively participated in various in-person events and hackathons.  
+I’ve been building games and tools in the on-chain space, contributing to open-source projects and joining different in-person events and hackathons along the way.  
 
 ---
 ## 🏆 Hackathons & Competitions  
