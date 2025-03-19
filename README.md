@@ -33,7 +33,6 @@ Here are some samples of my latest works.
 - **[Jokers of Neon - Trailer](https://www.youtube.com/watch?v=0KgCLOUVjHg)**
 - **[Jokers of Neon - Mod update](https://www.youtube.com/watch?v=KF3rtfxnkEc)**
 - **[Jokers of Neon x Loot Survivor MOD - Trailer](https://www.youtube.com/watch?v=xtTxSTtLy-k)**
-- **[Jokers of Neon - New modifiers](https://www.youtube.com/watch?v=uGNNp18gHvc)**
  
 ---
 ## 🔗 Social  
