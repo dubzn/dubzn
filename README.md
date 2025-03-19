@@ -27,7 +27,8 @@ I’ve been building games and tools in the on-chain space, contributing to open
 ---
 ## 🎨 Design & Media  
 I'm interested in design and content creation, so I also learned how to edit images and videos. 
-Here are some samples of my latest works
+
+Here are some samples of my latest works.
 
 - **[Jokers of Neon - Trailer](https://www.youtube.com/watch?v=0KgCLOUVjHg)**
 - **[Jokers of Neon - Mod update](https://www.youtube.com/watch?v=KF3rtfxnkEc)**
@@ -35,4 +36,15 @@ Here are some samples of my latest works
 - **[Jokers of Neon - New modifiers](https://www.youtube.com/watch?v=uGNNp18gHvc)**
  
 ---
-<img src="https://user-images.githubusercontent.com/58611754/236744178-b1753fb6-c647-473a-bc7b-77cd687c6a82.gif" width="200px" />
+## 🔗 Social  
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/sdgalvan"><img src="https://avatars.githubusercontent.com/u/58611754?v=4?s=100" width="150px;" alt="dubzn"/><br /><sub><b>𝕏 account</b></sub></a><br /><a href="https://github.com/dubzn" title="X"></a></td>
+      <td align="center" valign="top" width="14.28%"><img src="https://user-images.githubusercontent.com/58611754/236744178-b1753fb6-c647-473a-bc7b-77cd687c6a82.gif" width="130px" /><br /><sub><b>Favorite Pokémon</b></sub></a><br /><a href="https://www.pokemon.com/el/pokedex/gengar" title="Gengar"></a></td>
+    </tr>
+  </tbody>
+  <tfoot>
+  </tfoot>
+</table>
+
