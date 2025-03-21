@@ -6,7 +6,7 @@ Co-founder of **[Caravana Studio](https://github.com/caravana-studio)**, working
 I’ve been building games and tools in the on-chain space, contributing to open-source projects and joining different in-person events and hackathons along the way.  
 
 ---
-## 🏆 Hackathons & Competitions  
+## 🏆 Hackathons & Events  
 ### 2025  
 - **🥇 Starknet Winter Hackathon 2025** *(01/2025)* – **[Jokers of Neon Mods](https://github.com/caravana-studio/jokers-of-neon-mods)**  
 
