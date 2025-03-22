@@ -1,5 +1,5 @@
 ## 👋 About Me  
-Hi, I'm **Santiago**, a backend engineer working as a freelancer for the past three years, deeply involved in the **[Starknet](https://www.starknet.io/)** ecosystem.  
+Hi, I'm **Santiago**, a software engineer working as a freelancer for the past three years, deeply involved in the **[Starknet](https://www.starknet.io/)** ecosystem.  
 
 Co-founder of **[Caravana Studio](https://github.com/caravana-studio)**, working on **[Jokers of Neon](https://alpha.jokersofneon.com/)** as a **[Cairo](https://www.cairo-lang.org/)** developer, exploring new ways to integrate blockchain into gaming.  
 
