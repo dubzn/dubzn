@@ -21,7 +21,7 @@ I’ve been building games and tools in the on-chain space, contributing to open
 - **🏆 Dojo Game Jam #1** *(10/2023)* – **[Wordle](https://github.com/dpinones/wordle-dojo)**  
 - **🏆 Pragma Hackathon #1** *(06/2023)* – **[MechaStark](https://github.com/MechaStark-RPG/mecha-stark-contract)**  
 
-## 2022  
+### 2022  
 - **🥇 Gaming MatchBoxDao Hackathon #2** *(10/2022)* – **[PathfindersAr](https://github.com/dpinones/pathfinders-ar)**
 
 ---
