@@ -9,6 +9,7 @@ I’ve been building games and tools in the on-chain space, contributing to open
 ## 🏆 Hackathons & Events  
 ### 2025  
 - **🥇 Starknet Winter Hackathon 2025** *(01/2025)* – **[Jokers of Neon Mods](https://github.com/caravana-studio/jokers-of-neon-mods)**  
+- **🏆 Starknet Startup House (France)** *(07/2025)*  
 
 ### 2024  
 - **🥇 Dojo Spooky Game Jam** *(11/2024)* – **[JON x Loot Survivor Mod](https://github.com/caravana-studio/jokers-ls-mod-contracts)**  
