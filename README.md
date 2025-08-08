@@ -31,7 +31,8 @@ I'm interested in design and content creation, so I also learned how to edit ima
 
 Here are some samples of my latest works.
 
-- **[Jokers of Neon - Trailer](https://www.youtube.com/watch?v=0KgCLOUVjHg)**
+- **[Jokers of Neon - Teaser](https://www.youtube.com/watch?v=OvVV1qIZUBw)**
+- **[Jokers of Neon - First steps tutorial](https://www.youtube.com/watch?v=yCac6cfDm3k)**
 - **[Jokers of Neon - Mod update](https://www.youtube.com/watch?v=KF3rtfxnkEc)**
 - **[Jokers of Neon x Loot Survivor MOD - Trailer](https://www.youtube.com/watch?v=xtTxSTtLy-k)**
  
