@@ -8,7 +8,8 @@ I’ve been building games and tools in the on-chain space, contributing to open
 ---
 ## 🏆 Hackathons & Events  
 ### 2025  
-- **🏆 Starknet Startup House (France)** *(07/2025)*  
+- **🐺 Starknet Grinta Sprint** *(09/2025)* - [Starky](https://github.com/dubzn/starky) 
+- **🇫🇷 Starknet Startup House (France)** *(07/2025)*  
 - **🥇 Starknet Winter Hackathon 2025** *(01/2025)* – **[Jokers of Neon Mods](https://github.com/caravana-studio/jokers-of-neon-mods)**  
 
 ### 2024  
@@ -18,7 +19,7 @@ I’ve been building games and tools in the on-chain space, contributing to open
 
 ### 2023  
 - **🥈 Dojo Game Jam #3** *(12/2023)* – **[Starkane](https://x.com/0xstarkane)**  
-- **🏅 Finalist Starknet Hacker House (Istanbul)** *(11/2023)* – **[VAUTT Protocol](https://github.com/Koomuna-Labs/vautt-protocol)**  
+- **🇹🇷 Finalist Starknet Hacker House (Istanbul)** *(11/2023)* – **[VAUTT Protocol](https://github.com/Koomuna-Labs/vautt-protocol)**  
 - **🏆 Dojo Game Jam #1** *(10/2023)* – **[Wordle](https://github.com/dpinones/wordle-dojo)**  
 - **🏆 Pragma Hackathon #1** *(06/2023)* – **[MechaStark](https://github.com/MechaStark-RPG/mecha-stark-contract)**  
 
