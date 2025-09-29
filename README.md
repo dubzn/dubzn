@@ -15,7 +15,7 @@ I’ve been building games and tools in the on-chain space, contributing to open
 ### 2024  
 - **🥇 Dojo Spooky Game Jam** *(11/2024)* – **[JON x Loot Survivor Mod](https://github.com/caravana-studio/jokers-ls-mod-contracts)**  
 - **🥉 Starknet Winter Hackathon** *(02/2024)* – **[Verdania](https://github.com/amegakure-studio/verdania-cairo)**  
-- **🥈 ETH 5 de Mayo Hackathon (Mexico)** *(02/2024)* – **[Paymeez](https://github.com/dbejarano820/eth-cdm-hackathon)**   
+- **🇲🇽 ETH 5 de Mayo Hackathon (Mexico)** *(02/2024)* – **[Paymeez](https://github.com/dbejarano820/eth-cdm-hackathon)**   
 
 ### 2023  
 - **🥈 Dojo Game Jam #3** *(12/2023)* – **[Starkane](https://x.com/0xstarkane)**  
