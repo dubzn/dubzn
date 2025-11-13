@@ -8,7 +8,7 @@ I’ve been building games and tools in the on-chain space, contributing to open
 ---
 ## 🏆 Hackathons & Events  
 ### 2025  
-- **📓 Dojo Game Jam 7 ** - [Tomie Games](https://github.com/dubzn/tomie-games)
+- **📓 Dojo Game Jam 7** - *(10/2025)* - [Tomie Games](https://github.com/dubzn/tomie-games)
 - **🐺 Starknet Grinta Sprint** *(09/2025)* - [Starky](https://github.com/dubzn/starky) 
 - **🇫🇷 Starknet Startup House (France)** *(07/2025)*  
 - **🥇 Starknet Winter Hackathon 2025** *(01/2025)* – **[Jokers of Neon Mods](https://github.com/caravana-studio/jokers-of-neon-mods)**  
