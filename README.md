@@ -32,7 +32,7 @@
   ### 2023
   - **🥈 Dojo Game Jam #3** *(December)* – **[Starkane](https://x.com/0xstarkane)**
   - **🇹🇷 Finalist Starknet Hacker House (Istanbul)** *(November)* – **[VAUTT Protocol](<!-- FIX: link truncado en el original -->)**
-  - **Dojo Game Jam #1** *(October)* – **[Wordle](https://github.com/dpinones/wordle-dojo)**
+  - **🎮 Dojo Game Jam #1** *(October)* – **[Wordle](https://github.com/dpinones/wordle-dojo)**
   - **🏆 Pragma Hackathon #1** *(June)* – **[MechaStark](https://github.com/MechaStark-RPG/mecha-stark-contract)**
 
   ### 2022
