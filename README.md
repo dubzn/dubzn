@@ -11,9 +11,12 @@
   ---
   ## 🏆 Hackathons & Events
   ### 2026
-  - **✨ Stellar Hacks: ZK Gaming** *(February)* – [Phantom Chase](https://github.com/dubzn/phantom-chase) - [DoraHacks](https://dorahacks.io/buidl/39828)
+   
+  - **💥 Dojo Game Jam VIII** *(March)* – [StarkBound](https://github.com/dubzn/starkbound) - [Luma](https://luma.com/w1wxpfv3?tk=EShCKG)
+  - **♠️ RE{DEFINE} HACKATHON | Starknet** *(February)* – [Mental Poker](https://github.com/dpinones/mental-poker) - [DoraHacks](https://dorahacks.io/buidl/40188)
+  - **🏹 Stellar Hacks: ZK Gaming** *(February)* – [Phantom Chase](https://github.com/dubzn/phantom-chase) - [DoraHacks](https://dorahacks.io/buidl/39828)
   - **✨ Monad Moltiverse Hackathon** *(February)* – [Fluffy Fate](https://github.com/dpinones/buckshot-roulette)
-  - **✨ Aztec** *(January)* - [Treasure Hunt](https://github.com/caravana-studio/aztec-treasure-hunt) - [X post](https://x.com/twitter/status/2014738217967169781)
+  - **💰 Aztec** *(January)* - [Treasure Hunt](https://github.com/caravana-studio/aztec-treasure-hunt) - [X post](https://x.com/twitter/status/2014738217967169781)
 
   ### 2025
   - **🥈 Zypherpunk Hackathon** *(December)* – **[Liar's Proof](https://github.com/dubzn/liars-proof)** –
