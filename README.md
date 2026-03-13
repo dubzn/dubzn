@@ -1,5 +1,5 @@
   ## 👋 About Me
-  Hi, I'm **Santiago**, a software engineer working as a freelancer for the past three years, deeply involved in the **[Starknet](https://www.starknet.io/)**        
+  Hi, I'm **Santiago**, a software engineer working as a freelancer for the past four years, deeply involved in the **[Starknet](https://www.starknet.io/)**        
   ecosystem.      
 
   Co-founder of **[Caravana Studio](https://github.com/caravana-studio)**, working on **[Jokers of Neon](https://jokersofneon.com/)** as Blockchain Engineer |
