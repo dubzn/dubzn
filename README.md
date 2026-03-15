@@ -11,33 +11,33 @@ I've been building games and tools in the on-chain space, contributing to open-s
 ## 🏆 Hackathons & Events
 ### 2026
 
-- **💥 Dojo Game Jam VIII** *(March)* – [StarkBound](https://github.com/dubzn/starkbound) - [Luma](https://luma.com/w1wxpfv3?tk=EShCKG) – <img src="assets/starknet.png" width="20" style="border-radius:50%" alt="Starknet" title="Starknet"> <img src="assets/cairo.png" width="20" style="border-radius:50%" alt="Cairo" title="Cairo"> <img src="assets/dojo.png" width="20" style="border-radius:50%" alt="Dojo" title="Dojo"> <img src="assets/typescript.png" width="20" style="border-radius:50%" alt="TypeScript" title="TypeScript">
-- **♠️ RE{DEFINE} HACKATHON | Starknet** *(February)* – [Mental Poker](https://github.com/dpinones/mental-poker) - [DoraHacks](https://dorahacks.io/buidl/40188) – <img src="assets/starknet.png" width="20" style="border-radius:50%" alt="Starknet" title="Starknet"> <img src="assets/cairo.png" width="20" style="border-radius:50%" alt="Cairo" title="Cairo"> <img src="assets/noir.png" width="20" style="border-radius:50%" alt="Noir" title="Noir"> <img src="assets/garaga.png" width="20" style="border-radius:50%" alt="Garaga" title="Garaga"> <img src="assets/typescript.png" width="20" style="border-radius:50%" alt="TypeScript" title="TypeScript">
-- **🏹 Stellar Hacks: ZK Gaming** *(February)* – [Phantom Chase](https://github.com/dubzn/phantom-chase) - [DoraHacks](https://dorahacks.io/buidl/39828) – <img src="assets/stellar.png" width="20" style="border-radius:50%" alt="Stellar" title="Stellar"> <img src="assets/noir.png" width="20" style="border-radius:50%" alt="Noir" title="Noir"> <img src="assets/typescript.png" width="20" style="border-radius:50%" alt="TypeScript" title="TypeScript"> <img src="assets/react.png" width="20" style="border-radius:50%" alt="React" title="React"> <img src="assets/threejs.png" width="20" style="border-radius:50%" alt="Three.js" title="Three.js">
-- **✨ Monad Moltiverse Hackathon** *(February)* – [Fluffy Fate](https://github.com/dpinones/buckshot-roulette) – <img src="assets/monad.png" width="20" style="border-radius:50%" alt="Monad" title="Monad"> <img src="assets/solidity.png" width="20" style="border-radius:50%" alt="Solidity" title="Solidity"> <img src="assets/typescript.png" width="20" style="border-radius:50%" alt="TypeScript" title="TypeScript">
-- **💰 Aztec** *(January)* - [Treasure Hunt](https://github.com/caravana-studio/aztec-treasure-hunt) - [X post](https://x.com/twitter/status/2014738217967169781) – <img src="assets/aztec.png" width="20" style="border-radius:50%" alt="Aztec" title="Aztec"> <img src="assets/noir.png" width="20" style="border-radius:50%" alt="Noir" title="Noir"> <img src="assets/typescript.png" width="20" style="border-radius:50%" alt="TypeScript" title="TypeScript">
+- **<img src="assets/starknet.png" width="20" alt="Starknet" title="Starknet"> Dojo Game Jam VIII** *(March)* – [StarkBound](https://github.com/dubzn/starkbound) - [Luma](https://luma.com/w1wxpfv3?tk=EShCKG) – <img src="assets/cairo.png" width="20" alt="Cairo" title="Cairo"> <img src="assets/dojo.png" width="20" alt="Dojo" title="Dojo"> <img src="assets/typescript.png" width="20" alt="TypeScript" title="TypeScript">
+- **<img src="assets/starknet.png" width="20" alt="Starknet" title="Starknet"> RE{DEFINE} HACKATHON | Starknet** *(February)* – [Mental Poker](https://github.com/dpinones/mental-poker) - [DoraHacks](https://dorahacks.io/buidl/40188) – <img src="assets/cairo.png" width="20" alt="Cairo" title="Cairo"> <img src="assets/noir.png" width="20" alt="Noir" title="Noir"> <img src="assets/garaga.png" width="20" alt="Garaga" title="Garaga"> <img src="assets/typescript.png" width="20" alt="TypeScript" title="TypeScript">
+- **<img src="assets/stellar.png" width="20" alt="Stellar" title="Stellar"> Stellar Hacks: ZK Gaming** *(February)* – [Phantom Chase](https://github.com/dubzn/phantom-chase) - [DoraHacks](https://dorahacks.io/buidl/39828) –  <img src="assets/noir.png" width="20" alt="Noir" title="Noir"> <img src="assets/typescript.png" width="20" alt="TypeScript" title="TypeScript"> <img src="assets/react.png" width="20" alt="React" title="React"> <img src="assets/threejs.png" width="20" alt="Three.js" title="Three.js">
+- **<img src="assets/monad.png" width="20" alt="Monad" title="Monad"> Monad Moltiverse Hackathon** *(February)* – [Fluffy Fate](https://github.com/dpinones/buckshot-roulette) –  <img src="assets/solidity.png" width="20" alt="Solidity" title="Solidity"> <img src="assets/typescript.png" width="20" alt="TypeScript" title="TypeScript">
+- **<img src="assets/aztec.png" width="20" alt="Aztec" title="Aztec"> Research project** *(January)* - [Treasure Hunt](https://github.com/caravana-studio/aztec-treasure-hunt) - [X post](https://x.com/twitter/status/2014738217967169781) –  <img src="assets/noir.png" width="20" alt="Noir" title="Noir"> <img src="assets/typescript.png" width="20" alt="TypeScript" title="TypeScript">
 
 ### 2025
-- **🥈 Zypherpunk Hackathon** *(December)* – **[Liar's Proof](https://github.com/dubzn/liars-proof)** – **[Devfolio](https://devfolio.co/projects/liars-proof-a7e2)** – <img src="assets/starknet.png" width="20" style="border-radius:50%" alt="Starknet" title="Starknet"> <img src="assets/cairo.png" width="20" style="border-radius:50%" alt="Cairo" title="Cairo"> <img src="assets/dojo.png" width="20" style="border-radius:50%" alt="Dojo" title="Dojo"> <img src="assets/noir.png" width="20" style="border-radius:50%" alt="Noir" title="Noir"> <img src="assets/garaga.png" width="20" style="border-radius:50%" alt="Garaga" title="Garaga"> <img src="assets/typescript.png" width="20" style="border-radius:50%" alt="TypeScript" title="TypeScript">
-- **🇦🇷 Starknet Startup House (Argentina)**
-- **📓 Dojo Game Jam 7** *(October)* – **[Tomie Games](https://github.com/dubzn/tomie-games)**
-- **🐺 Starknet Grinta Sprint** *(August)* – **[Starky](https://github.com/dubzn/starky)**
+- **<img src="assets/starknet.png" width="20" alt="Starknet" title="Starknet"> Zypherpunk Hackathon** *(December)* – **[Liar's Proof](https://github.com/dubzn/liars-proof)** – **[Devfolio](https://devfolio.co/projects/liars-proof-a7e2)** –  <img src="assets/cairo.png" width="20" alt="Cairo" title="Cairo"> <img src="assets/dojo.png" width="20" alt="Dojo" title="Dojo"> <img src="assets/noir.png" width="20" alt="Noir" title="Noir"> <img src="assets/garaga.png" width="20" alt="Garaga" title="Garaga"> <img src="assets/typescript.png" width="20" alt="TypeScript" title="TypeScript">
+- **<img src="assets/starknet.png" width="20" alt="Starknet" title="Starknet"> 🇦🇷 Starknet Startup House (Argentina)**
+- **<img src="assets/starknet.png" width="20" alt="Starknet" title="Starknet"> Dojo Game Jam 7** *(October)* – **[Tomie Games](https://github.com/dubzn/tomie-games)**
+- **<img src="assets/starknet.png" width="20" alt="Starknet" title="Starknet"> Starknet Grinta Sprint** *(August)* – **[Starky](https://github.com/dubzn/starky)**
 - **🇫🇷 Starknet Startup House (France)** *(July)*
-- **🥇 Starknet Winter Hackathon 2025** *(January)* – **[Jokers of Neon Mods](https://github.com/caravana-studio/jokers-of-neon-mods)**
+- **<img src="assets/starknet.png" width="20" alt="Starknet" title="Starknet"> 🥇 Starknet Winter Hackathon 2025** *(January)* – **[Jokers of Neon Mods](https://github.com/caravana-studio/jokers-of-neon-mods)**
 
 ### 2024
-- **🥇 Dojo Spooky Game Jam** *(November)* – **[JON x Loot Survivor Mod](https://github.com/caravana-studio/jokers-ls-mod-contracts)**
-- **🥉 Starknet Winter Hackathon** *(February)* – **[Verdania](https://github.com/amegakure-studio/verdania-cairo)**
+- **<img src="assets/starknet.png" width="20" alt="Starknet" title="Starknet"> 🥇 Dojo Spooky Game Jam** *(November)* – **[JON x Loot Survivor Mod](https://github.com/caravana-studio/jokers-ls-mod-contracts)**
+- **<img src="assets/starknet.png" width="20" alt="Starknet" title="Starknet"> 🥉 Starknet Winter Hackathon** *(February)* – **[Verdania](https://github.com/amegakure-studio/verdania-cairo)**
 - **🇲🇽 ETH 5 de Mayo Hackathon (Mexico)** *(February)* – **[Paymeez](https://github.com/dbejarano820/eth-cdm-hackathon)**
 
 ### 2023
-- **🥈 Dojo Game Jam #3** *(December)* – **[Starkane](https://x.com/0xstarkane)**
-- **🇹🇷 Finalist Starknet Hacker House (Istanbul)** *(November)* – **VAUTT Protocol**
-- **🎮 Dojo Game Jam #1** *(October)* – **[Wordle](https://github.com/dpinones/wordle-dojo)**
-- **🏆 Pragma Hackathon #1** *(June)* – **[MechaStark](https://github.com/MechaStark-RPG/mecha-stark-contract)**
+- **<img src="assets/starknet.png" width="20" alt="Starknet" title="Starknet"> 🥈 Dojo Game Jam #3** *(December)* – **[Starkane](https://x.com/0xstarkane)**
+- **<img src="assets/starknet.png" width="20" alt="Starknet" title="Starknet"> 🇹🇷 Finalist Starknet Hacker House (Istanbul)** *(November)* – **VAUTT Protocol**
+- **<img src="assets/starknet.png" width="20" alt="Starknet" title="Starknet"> Dojo Game Jam #1** *(October)* – **[Wordle](https://github.com/dpinones/wordle-dojo)**
+- **<img src="assets/starknet.png" width="20" alt="Starknet" title="Starknet"> 🏆 Pragma Hackathon #1** *(June)* – **[MechaStark](https://github.com/MechaStark-RPG/mecha-stark-contract)**
 
 ### 2022
-- **🥇 Gaming MatchBoxDao Hackathon #2** *(October)* – **[PathfindersAr](https://github.com/dpinones/pathfinders-ar)**
+- **<img src="assets/starknet.png" width="20" alt="Starknet" title="Starknet"> 🥇 Gaming MatchBoxDao Hackathon #2** *(October)* – **[PathfindersAr](https://github.com/dpinones/pathfinders-ar)**
 
 ---
 ## 🎨 Design & Media
