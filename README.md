@@ -19,7 +19,7 @@ I've been building games and tools in the on-chain space, contributing to open-s
 
 ### 2025
 - **<img src="assets/starknet.png" width="20" alt="Starknet" title="Starknet"> Zypherpunk Hackathon** *(December)* – **[Liar's Proof](https://github.com/dubzn/liars-proof)** – **[Devfolio](https://devfolio.co/projects/liars-proof-a7e2)** –  <img src="assets/cairo.png" width="20" alt="Cairo" title="Cairo"> <img src="assets/dojo.png" width="20" alt="Dojo" title="Dojo"> <img src="assets/noir.png" width="20" alt="Noir" title="Noir"> <img src="assets/garaga.png" width="20" alt="Garaga" title="Garaga"> <img src="assets/typescript.png" width="20" alt="TypeScript" title="TypeScript">
-- **<img src="assets/starknet.png" width="20" alt="Starknet" title="Starknet"> <img src="assets/arg.png" width="20" alt="Argentina">Starknet Startup House (Argentina)**
+- **<img src="assets/starknet.png" width="20" alt="Starknet" title="Starknet"> <img src="assets/arg.png" width="20" alt="Argentina"> Starknet Startup House (Argentina)**
 - **<img src="assets/starknet.png" width="20" alt="Starknet" title="Starknet"> Dojo Game Jam 7** *(October)* – **[Tomie Games](https://github.com/dubzn/tomie-games)**
 - **<img src="assets/starknet.png" width="20" alt="Starknet" title="Starknet"> Starknet Grinta Sprint** *(August)* – **[Starky](https://github.com/dubzn/starky)**
 - **<img src="assets/france.png" width="20" alt="France">Starknet Startup House (France)** *(July)*
@@ -32,7 +32,7 @@ I've been building games and tools in the on-chain space, contributing to open-s
 
 ### 2023
 - **<img src="assets/starknet.png" width="20" alt="Starknet" title="Starknet"> 🥈 Dojo Game Jam #3** *(December)* – **[Starkane](https://x.com/0xstarkane)**
-- **<img src="assets/starknet.png" width="20" alt="Starknet" title="Starknet"> <img src="assets/turkey.png" width="20" alt="Turkey">Finalist Starknet Hacker House (Istanbul)** *(November)* – **VAUTT Protocol**
+- **<img src="assets/starknet.png" width="20" alt="Starknet" title="Starknet"> <img src="assets/turkey.png" width="20" alt="Turkey"> Finalist Starknet Hacker House (Istanbul)** *(November)* – **VAUTT Protocol**
 - **<img src="assets/starknet.png" width="20" alt="Starknet" title="Starknet"> Dojo Game Jam #1** *(October)* – **[Wordle](https://github.com/dpinones/wordle-dojo)**
 - **<img src="assets/starknet.png" width="20" alt="Starknet" title="Starknet"> 🏆 Pragma Hackathon #1** *(June)* – **[MechaStark](https://github.com/MechaStark-RPG/mecha-stark-contract)**
 
