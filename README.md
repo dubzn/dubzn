@@ -22,7 +22,7 @@ I've been building games and tools in the on-chain space, contributing to open-s
 - **<img src="assets/starknet.png" width="20" alt="Starknet" title="Starknet"> <img src="assets/arg.png" width="20" alt="Argentina"> Starknet Startup House (Argentina)**
 - **<img src="assets/starknet.png" width="20" alt="Starknet" title="Starknet"> Dojo Game Jam 7** *(October)* – **[Tomie Games](https://github.com/dubzn/tomie-games)**
 - **<img src="assets/starknet.png" width="20" alt="Starknet" title="Starknet"> Starknet Grinta Sprint** *(August)* – **[Starky](https://github.com/dubzn/starky)**
-- **<img src="assets/france.png" width="20" alt="France">Starknet Startup House (France)** *(July)*
+- **<img src="assets/france.png" width="20" alt="France"> Starknet Startup House (France)** *(July)*
 - **<img src="assets/starknet.png" width="20" alt="Starknet" title="Starknet"> 🥇 Starknet Winter Hackathon 2025** *(January)* – **[Jokers of Neon Mods](https://github.com/caravana-studio/jokers-of-neon-mods)**
 
 ### 2024
