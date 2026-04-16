@@ -46,6 +46,7 @@ I'm interested in design and content creation, so I also learned how to edit ima
 
 Here are some samples of my latest works.
 
+- **[x402 Operator | Demo](https://youtu.be/GwgDGpqz3h8)**
 - **[StarkBound | Demo](https://youtu.be/naOFyJ5kLfE)**
 - **[Liar's Proof | Demo](https://youtu.be/4DsNVXjBLjk)**
 - **[Tomie Games | Demo](https://youtu.be/bah7IStmMq8)**
