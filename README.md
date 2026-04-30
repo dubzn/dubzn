@@ -1,7 +1,6 @@
 # Santiago Galvan
 
 **Backend Engineer | Blockchain Infrastructure**  
-Buenos Aires, Argentina
 
 I'm a backend engineer with **5+ years of experience** building backend systems, internal tools,
 release pipelines, smart contracts, and production infrastructure.
@@ -174,12 +173,6 @@ I also care about how technical work is presented. These are some demos, trailer
 ## Contact
 
 - Email: [santiagodgalvan@gmail.com](mailto:santiagodgalvan@gmail.com)
-- GitHub: [github.com/dubzn](https://github.com/dubzn)
 - X: [@dub_zn](https://x.com/dub_zn)
 - Studio: [Caravana Studio](https://github.com/caravana-studio)
 
-## Education & Languages
-
-- **Information Systems Degree**, Universidad Nacional de General Sarmiento - 32/34 subjects completed.
-- **Technical Degree in Computer Science**, Universidad Nacional de General Sarmiento - completed, final grade average 9/10.
-- **Languages:** Spanish native, English advanced.
