@@ -6,7 +6,7 @@ I'm a backend engineer with **5+ years of experience** building backend systems,
 release pipelines, smart contracts, and production infrastructure.
 
 Currently, I'm co-founder and founding backend engineer at
-**[Caravana Studio](https://github.com/caravana-studio)**, where I build backend infrastructure for
+**[Caravana Studio](https://caravana.studio/)**, where I build backend infrastructure for
 **[Jokers of Neon](https://jokersofneon.com/)**, a production onchain card game live since December 2025
 with **150k+ Starknet mainnet transactions** and approximately **250 monthly active users**.
 
