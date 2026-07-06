@@ -1,6 +1,6 @@
 # Santiago Galvan
 
-**Backend Engineer | Blockchain Infrastructure**  
+**Backend Engineer | Blockchain**  
 
 I'm a backend engineer with **5+ years of experience** building backend systems, internal tools,
 release pipelines, smart contracts, and production infrastructure.
