@@ -172,7 +172,7 @@ I also care about how technical work is presented. These are some demos, trailer
 
 ## Contact
 
-- Email: [santiagodgalvan@gmail.com](mailto:santiagodgalvan@gmail.com)
-- X: [@dub_zn](https://x.com/dub_zn)
-- Studio: [Caravana Studio](https://github.com/caravana-studio)
+- X [@dub_zn](https://x.com/dub_zn)
+- [Caravana Studio](https://caravana.studio)
+- [Send me an Email!](mailto:santiagodgalvan@gmail.com)
 
