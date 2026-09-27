@@ -6,7 +6,7 @@ I'm a backend engineer with 5 years of experience building and operating
 production APIs, background workers, payment flows, release pipelines, and
 blockchain infrastructure.
 
-At [Caravana Studio](https://caravana.studio), I work as the founding
+At [Caravana Studio](https://caravana.studio), I work as
 backend engineer on [Jokers of Neon](https://jokersofneon.com/), a production
 onchain card game available on the App Store, Google Play, and desktop that has
 processed 250K+ Starknet mainnet transactions since December 2025.
