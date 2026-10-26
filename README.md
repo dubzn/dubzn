@@ -8,8 +8,9 @@ blockchain infrastructure.
 
 At [Caravana Studio](https://caravana.studio), I work as
 backend engineer on [Jokers of Neon](https://jokersofneon.com/), a production
-onchain card game available on the App Store, Google Play, and desktop that has
-processed 250K+ Starknet mainnet transactions since December 2025.
+multichain, cross-platform onchain card game on Celo and Starknet, available on
+the web, App Store, Google Play, and desktop. The game has processed 350K+
+Starknet mainnet transactions since December 2025.
 
 Previously, I built Java/Spring Boot integrations at Mercado Libre and worked
 on Cairo smart contracts and libraries at Lambda Class.
@@ -91,7 +92,7 @@ Firebase, RevenueCat, AppsFlyer, Vercel, Render
 
 | Project | Focus | Stack | Links |
 | --- | --- | --- | --- |
-| **Jokers of Neon** | Production onchain card game with 250K+ Starknet mainnet transactions | TypeScript, Node.js, Cairo, Starknet, PostgreSQL | [Website](https://jokersofneon.com/) · [Worker](https://github.com/caravana-studio/jokers-of-neon-torii-worker) · [App](https://github.com/caravana-studio/jokers-of-neon-app) |
+| **Jokers of Neon** | Multichain, cross-platform onchain card game on Celo and Starknet; 350K+ Starknet mainnet transactions | TypeScript, Node.js, Cairo, Starknet, Celo, PostgreSQL | [Website](https://jokersofneon.com/) · [Worker](https://github.com/caravana-studio/jokers-of-neon-torii-worker) · [App](https://github.com/caravana-studio/jokers-of-neon-app) |
 | **Probanza** | Private participant screening for clinical studies | Rust, Anchor, Solana, Circom/Groth16, Light Protocol, PostgreSQL, TypeScript, Next.js | [Website](https://probanza.xyz/) · [Colosseum](https://colosseum.com/arena/projects/probanza) |
 | **Logos Private Balance Attestation** | Private balance proofs and token-gated integrations | Rust, RISC Zero, Logos | [Repo](https://github.com/dubzn/logos-private-balance-attestation) |
 | **StarkBound** | 1st place at Dojo Game Jam #8; onchain artillery game | Cairo, Dojo, TypeScript, React | [Repo](https://github.com/dubzn/starkbound) · [Demo](https://youtu.be/naOFyJ5kLfE) |
