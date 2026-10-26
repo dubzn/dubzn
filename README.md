@@ -2,7 +2,7 @@
 
 **Backend Engineer | Blockchain**
 
-I'm a backend engineer with 5 years of experience building and operating
+I'm a backend engineer with 5+ years of experience building and operating
 production APIs, background workers, payment flows, release pipelines, and
 blockchain infrastructure.
 
@@ -11,9 +11,23 @@ backend engineer on [Jokers of Neon](https://jokersofneon.com/), a production
 onchain card game available on the App Store, Google Play, and desktop that has
 processed 250K+ Starknet mainnet transactions since December 2025.
 
+Previously, I built Java/Spring Boot integrations at Mercado Libre and worked
+on Cairo smart contracts and libraries at Lambda Class.
+
 For my next role, I'm interested in backend and blockchain infrastructure
 positions that combine production ownership, smart contracts, and product
 engineering.
+
+## Currently Building: Explorators
+
+<img src="assets/explorators.gif" width="100%" alt="Explorators: an interactive world for exploring Solana activity">
+
+An interactive world for exploring Solana activity. I'm building the realtime
+backend, event ingestion, wallet integration, and onchain donations, alongside
+a React/Phaser client. Currently in active development on devnet.
+
+**Backend:** TypeScript, Node.js, Fastify, WebSockets, Redis Streams, PostgreSQL  
+**Onchain & client:** Solana, Rust, Anchor, Metaplex, React, Phaser
 
 ## Production Engineering
 
@@ -61,12 +75,13 @@ Contributions include work across
   <img src="assets/threejs.png" width="24" alt="Three.js" title="Three.js">
 </p>
 
-**Backend:** TypeScript, Node.js, Java, Spring Boot, REST APIs, background
-workers, PostgreSQL, Supabase  
-**Blockchain:** Cairo, Starknet, Dojo, Solidity, Foundry, OpenZeppelin  
+**Backend:** TypeScript, Node.js, Java, Spring Boot, Fastify, REST APIs,
+WebSockets, background workers, PostgreSQL, Supabase, Redis  
+**Blockchain:** Cairo, Starknet, Dojo, Solidity, Foundry, OpenZeppelin,
+Solana, Rust, Anchor, Metaplex  
 **Infrastructure:** AWS, EC2, Nginx, Linux, GitHub Actions, Jenkins, Datadog,
 Kibana  
-**Additional project experience:** Rust, Noir, Garaga, Aztec, React, Three.js,
+**Additional project experience:** Noir, Garaga, Aztec, React, Phaser, Three.js,
 Firebase, RevenueCat, AppsFlyer, Vercel, Render
 
 ## Featured Work
@@ -89,6 +104,8 @@ and onchain application projects.
 
 ### 2026
 
+- **Colosseum — Crypto World's Fair** *(October)* - [Probanza](https://colosseum.com/arena/projects/probanza) - Privacy-preserving participant screening for clinical studies on Solana; devnet prototype.
+- **Graduate, Solana School: Fall Class** *(August–October)* - [Solana Foundation program](https://luma.com/jy1g8k90) - Solana, Rust, Anchor.
 - **<img src="assets/layerx.png" width="20" alt="X Layer" title="X Layer"> Build X Hackathon | X Layer Arena** *(April)* - [X402 Operator](https://github.com/dubzn/operator-xlayer) - <img src="assets/solidity.png" width="20" alt="Solidity" title="Solidity"> <img src="assets/typescript.png" width="20" alt="TypeScript" title="TypeScript"> <img src="assets/react.png" width="20" alt="React" title="React">
 - **<img src="assets/starknet.png" width="20" alt="Starknet" title="Starknet"> 1st place, Dojo Game Jam #8** *(March)* - [StarkBound](https://github.com/dubzn/starkbound) - [Luma](https://luma.com/w1wxpfv3?tk=EShCKG) - <img src="assets/cairo.png" width="20" alt="Cairo" title="Cairo"> <img src="assets/dojo.png" width="20" alt="Dojo" title="Dojo"> <img src="assets/typescript.png" width="20" alt="TypeScript" title="TypeScript"> <img src="assets/react.png" width="20" alt="React" title="React">
 - **<img src="assets/starknet.png" width="20" alt="Starknet" title="Starknet"> 1st place, RE{DEFINE} Hackathon | Starknet** *(February)* - [Mental Poker](https://github.com/dpinones/mental-poker) - [DoraHacks](https://dorahacks.io/hackathon/redefine/winner) - <img src="assets/cairo.png" width="20" alt="Cairo" title="Cairo"> <img src="assets/noir.png" width="20" alt="Noir" title="Noir"> <img src="assets/garaga.png" width="20" alt="Garaga" title="Garaga"> <img src="assets/typescript.png" width="20" alt="TypeScript" title="TypeScript">
