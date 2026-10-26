@@ -92,7 +92,7 @@ Firebase, RevenueCat, AppsFlyer, Vercel, Render
 | Project | Focus | Stack | Links |
 | --- | --- | --- | --- |
 | **Jokers of Neon** | Production onchain card game with 250K+ Starknet mainnet transactions | TypeScript, Node.js, Cairo, Starknet, PostgreSQL | [Website](https://jokersofneon.com/) · [Worker](https://github.com/caravana-studio/jokers-of-neon-torii-worker) · [App](https://github.com/caravana-studio/jokers-of-neon-app) |
-| **Probanza** | Private participant screening for clinical studies | Solana | [Website](https://probanza.xyz/) · [Colosseum](https://colosseum.com/arena/projects/probanza) |
+| **Probanza** | Private participant screening for clinical studies | Rust, Anchor, Solana, Circom/Groth16, Light Protocol, PostgreSQL, TypeScript, Next.js | [Website](https://probanza.xyz/) · [Colosseum](https://colosseum.com/arena/projects/probanza) |
 | **Logos Private Balance Attestation** | Private balance proofs and token-gated integrations | Rust, RISC Zero, Logos | [Repo](https://github.com/dubzn/logos-private-balance-attestation) |
 | **StarkBound** | 1st place at Dojo Game Jam #8; onchain artillery game | Cairo, Dojo, TypeScript, React | [Repo](https://github.com/dubzn/starkbound) · [Demo](https://youtu.be/naOFyJ5kLfE) |
 | **Mental Poker** | 1st place at RE{DEFINE}; trustless card protocol with browser-generated ZK proofs | Cairo, Noir, Garaga, TypeScript | [Repo](https://github.com/dpinones/mental-poker) · [Winners](https://dorahacks.io/hackathon/redefine/winner) |
@@ -108,7 +108,7 @@ and onchain application projects.
 
 ### 2026
 
-- **<img src="assets/sol.png" width="20" alt="Solana" title="Solana"> Colosseum — Crypto World's Fair** *(October)* - [Probanza](https://colosseum.com/arena/projects/probanza)
+- **<img src="assets/sol.png" width="20" alt="Solana" title="Solana"> Colosseum — Crypto World's Fair** *(October)* - [Probanza](https://colosseum.com/arena/projects/probanza) - <img src="assets/rust.png" width="20" alt="Rust" title="Rust"> <img src="assets/anchor.png" width="20" alt="Anchor" title="Anchor"> <img src="assets/typescript.png" width="20" alt="TypeScript" title="TypeScript"> <img src="assets/react.png" width="20" alt="React" title="React">
 - **<img src="assets/sol.png" width="20" alt="Solana" title="Solana"> Solana School: Fall Class** *(August–October)* - [Solana Foundation program](https://luma.com/jy1g8k90) - <img src="assets/rust.png" width="20" alt="Rust" title="Rust"> <img src="assets/anchor.png" width="20" alt="Anchor" title="Anchor">
 - **<img src="assets/layerx.png" width="20" alt="X Layer" title="X Layer"> Build X Hackathon | X Layer Arena** *(April)* - [X402 Operator](https://github.com/dubzn/operator-xlayer) - <img src="assets/solidity.png" width="20" alt="Solidity" title="Solidity"> <img src="assets/typescript.png" width="20" alt="TypeScript" title="TypeScript"> <img src="assets/react.png" width="20" alt="React" title="React">
 - **<img src="assets/starknet.png" width="20" alt="Starknet" title="Starknet"> 1st place, Dojo Game Jam #8** *(March)* - [StarkBound](https://github.com/dubzn/starkbound) - [Luma](https://luma.com/w1wxpfv3?tk=EShCKG) - <img src="assets/cairo.png" width="20" alt="Cairo" title="Cairo"> <img src="assets/dojo.png" width="20" alt="Dojo" title="Dojo"> <img src="assets/typescript.png" width="20" alt="TypeScript" title="TypeScript"> <img src="assets/react.png" width="20" alt="React" title="React">
