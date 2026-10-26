@@ -152,6 +152,15 @@ the projects were presented:
 <table>
   <tr>
     <td width="33.33%" valign="top">
+      <a href="https://youtu.be/7GEYP6juuBo">
+        <img src="https://img.youtube.com/vi/7GEYP6juuBo/hqdefault.jpg" width="100%" alt="Probanza project pitch">
+      </a>
+      <br>
+      <strong>Probanza</strong>
+      <br>
+      <sub>Colosseum hackathon pitch</sub>
+    </td>
+    <td width="33.33%" valign="top">
       <a href="https://youtu.be/GwgDGpqz3h8">
         <img src="https://img.youtube.com/vi/GwgDGpqz3h8/sddefault.jpg" width="100%" alt="X402 Operator demo">
       </a>
@@ -169,6 +178,8 @@ the projects were presented:
       <br>
       <sub>Dojo Game Jam #8 winner</sub>
     </td>
+  </tr>
+  <tr>
     <td width="33.33%" valign="top">
       <a href="https://youtu.be/4DsNVXjBLjk">
         <img src="https://img.youtube.com/vi/4DsNVXjBLjk/sddefault.jpg" width="100%" alt="Liar's Proof demo">
@@ -178,8 +189,6 @@ the projects were presented:
       <br>
       <sub>Privacy-preserving card game</sub>
     </td>
-  </tr>
-  <tr>
     <td width="33.33%" valign="top">
       <a href="https://youtu.be/bah7IStmMq8">
         <img src="https://img.youtube.com/vi/bah7IStmMq8/sddefault.jpg" width="100%" alt="Tomie Games demo">
@@ -188,15 +197,6 @@ the projects were presented:
       <strong>Tomie Games</strong>
       <br>
       <sub>Dojo Game Jam #7 project</sub>
-    </td>
-    <td width="33.33%" valign="top">
-      <a href="https://www.youtube.com/watch?v=xtTxSTtLy-k">
-        <img src="https://img.youtube.com/vi/xtTxSTtLy-k/sddefault.jpg" width="100%" alt="Jokers of Neon MOD trailer">
-      </a>
-      <br>
-      <strong>Jokers of Neon MOD</strong>
-      <br>
-      <sub>Modding platform trailer</sub>
     </td>
     <td width="33.33%" valign="top">
       <a href="https://youtube.com/shorts/fX49g90ROVE">
